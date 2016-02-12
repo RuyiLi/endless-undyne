@@ -1,5 +1,5 @@
 # endless-undyne
-A fangame made for undertale (http://store.steampowered.com/app/391540/).
+A fangame made for Undertale (http://store.steampowered.com/app/391540/) (GET IT IT'S THE BEST).
 
 I didn't get to finish it due to homework and other stuff, but I hope one day someone can "remix" it, and/or complete it. 
 
