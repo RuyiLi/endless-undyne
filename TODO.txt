@@ -1,3 +1,2 @@
 1. Game Over
 2. Timer to see how long the player survived for
-3. Arrows that don't come at the same time and force the player to take damage
