@@ -15,7 +15,7 @@ I can't seem to upload the resources to github, so here's a [download link](http
 #Remixing the game
 1. Download GIFImage.py.
 2. Download main.py.
-3. Download the assets from the link above. Or if you don't want to move your eyes up, [here](https://www.dropbox.com/s/95g6kjg2egkbz7w/res.zip?dl=0).
+3. Download the assets from the link above. Or if you don't want to move your eyes up, [here](https://www.dropbox.com/s/95g6kjg2egkbz7w/res.zip?dl=0). EDIT: You can now just download the files from the "res" file above.
 4. Create a folder called "Endless Undyne" or something like that.
 5. Put GIFImage.py and main.py in "Endless Undyne".
 6. Create a folder called "res" in "Endless Undyne".
