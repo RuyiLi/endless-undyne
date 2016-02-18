@@ -8,3 +8,7 @@ This was made in pygame, a python library. Also, thanks to GIFImage by Matthew R
 If you are to remix/finish this game, please give some credit to me.
 
 Please note that this requires pygame(http://pygame.org/hifi.html) and PIL(http://www.pythonware.com/products/pil/), and of course, Python (2.7).
+
+#Resources/Assets
+I can't seem to upload the resources to github, so here's a [download link](https://www.dropbox.com/s/95g6kjg2egkbz7w/res.zip?dl=0) to a zip with all that.
+
