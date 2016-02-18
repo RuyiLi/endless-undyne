@@ -21,7 +21,7 @@ I can't seem to upload the resources to github, so here's a [download link](http
 6. Create a folder called "res" in "Endless Undyne".
 7. Extract the assets to "res".
 8. You're all set! If you followed the instruction correctly, you should have this:
-
+```
 Endless Undyne|
   main.py
   GIFImage.py
@@ -32,7 +32,7 @@ Endless Undyne|
     font.ttf
     spearofjustice.ogg
     undyne0.gif
-    
+```
 Now go do something with this!! :D
 
 
