@@ -11,6 +11,7 @@ Please note that this requires pygame(http://pygame.org/hifi.html) and PIL(http:
 
 #Resources/Assets
 I can't seem to upload the resources to github, so here's a [download link](https://www.dropbox.com/s/95g6kjg2egkbz7w/res.zip?dl=0) to a zip with all that.
+EDIT: Images are up now! Go to the folder "res".
 
 #Remixing the game
 1. Download GIFImage.py.
